@@ -1,0 +1,34 @@
+body{
+    background-image: url("../assets/bg.jpg");
+    background-size: cover;
+
+    font-family: 'Inknut Antiqua', serif;
+    color: aliceblue;
+
+    height: 50px;
+    width: 150px;   
+}
+
+p{
+    text-shadow: 5px 5px 5px black;
+    font-size: 20pt;
+}
+
+.border-frame{
+    background-image: url("../assets/bg-border.png");
+    background-size: inherit;
+
+    padding: 20px;
+
+    height: 265px;
+}
+
+#character-list{
+    width: 315px;
+    height: 50px;
+    font-size: 12pt;
+}
+
+#spark-target-image:hover{
+    opacity: 0.8;
+}
