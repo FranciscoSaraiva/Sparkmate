@@ -1,4 +1,4 @@
-# Sparkmate
+# Sparkmate ![alt text](assets/icon48.png "Sparkmate")
 (Not affiliated with Kat's Viramate.)
 
 ## Introduction
